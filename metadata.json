@@ -1,0 +1,5 @@
+{
+  "name": "Gemini OS Puzzle",
+  "description": "A simple multi-level game that simulates an OS. Users must solve tricky puzzles on each level, from logging in to finding secret files in a command-line interface, to win the game.",
+  "requestFramePermissions": []
+}
